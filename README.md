@@ -4,4 +4,4 @@
 
 `✅ Step 2.` Run the setCodeBlocksDarkTheme.bat file.
 
-`✅ Step 3.` Restart Code::Blocks
+`✅ Step 3.` Restart Code::Blocks IDE.
